@@ -1,0 +1,24 @@
+.upload_file_list .ant-upload-drag {
+  display: none;
+}
+.upload_file_list .ant-upload-list-item-card-actions {
+  display: none;
+}
+.explainFile {
+  position: absolute;
+  right: 10px;
+  z-index: 999;
+}
+.templateFile {
+  position: absolute;
+  right: 50px;
+  top: 50px;
+  z-index: 999;
+}
+.messageTitle {
+  position: absolute;
+  right: 10px;
+  top: 8px;
+  z-index: 999;
+  color: red;
+}
